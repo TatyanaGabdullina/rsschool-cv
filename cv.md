@@ -1,10 +1,12 @@
 # Tatyana Gabdullina
 ### Grafic designer, Junior Frontend Developer
+! [photo] (/img/photo.jpg)
 ---
 ### Contact infornation
 * Phone: +421 951799604
 * e-mail: tatyana.gabdullina@gmail.com
 * Telegram: @TatyanaGabdullina
+* Discord: TatyanaGabdullina
 ---
 ### About me
 ###### I graduated from St. Petersburg University with a degree in applied mathematics. For about 20 years I worked as a Graphic designer. Now I moved to Slovakia. I am studying at Comenius University for information studies. I am working as a Graphic Design teacher with teenagers. I know a little bit of HTML and CSS, I would like to improve my knowledge and learn JS.
