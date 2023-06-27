@@ -1,6 +1,5 @@
 # Tatyana Gabdullina
 ### Grafic designer, Junior Frontend Developer
-! [photo] (/img/photo.jpg)
 ---
 ### Contact infornation
 * Phone: +421 951799604
@@ -14,6 +13,13 @@
 ### Education
 * Saint Petersburg State University, Faculty of Applied Mathematics (1988-1993)
 * Comenius University in Bratislava, Information Studies ((still studying)
+#### Additional Education
+* Higher School of Economics - Marketing online course
+* Higher School of Economics - Marketing Management online course
+* Higher School of Economics - online course Design in the Digital Environment
+* Tilda school - online course Start
+* Tilda school - online course Pro
+* Bang Bang Education - online course Motion Design
 ---
 ### Experience
 * Algorithmics Slovakia - Graphic Design teacher
@@ -29,6 +35,7 @@
 * Corel Draw
 * Tilda Publishing
 * HTML&CSS (basic)
+* Python (basic)
 ---
 ### Languages
 * Russian
