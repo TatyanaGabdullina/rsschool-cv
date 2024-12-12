@@ -11,18 +11,18 @@
 .service-widget .widget-categories .category .category .white-text
  {
     font-size: 16 px;
-    font-weight: 300; /* Light начертание */
+    font-weight: 300; 
     color: #5c5d67;
 }
 .header 
 {
     font-size: 16 px;
-    font-weight: 300; /* Light начертание */
+    font-weight: 300; 
     color: #5c5d67;
 }
 .category  {
     font-size: 16 px;
-    font-weight: 300; /* Light начертание */
+    font-weight: 300; 
     color: #e5e5e5;
     background-color: #677a77;
     border: none;
@@ -31,8 +31,6 @@
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
 }
-
-/* Ховер-эффект для кнопок */
 .category:hover,
  {
     background-color: #869891;
