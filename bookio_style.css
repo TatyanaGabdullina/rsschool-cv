@@ -1,31 +1,30 @@
 #bookio-iframe {
     font-family: 'Roboto', sans-serif;
     font-weight: 300; 
-    background-color: #e5e5e5 !important;
-    color: #5c5d67 !important;
+    background-color: #e5e5e5;
+    color: #5c5d67;
 }
 
 .widget-categories,
  {
-    font-size: 16px;
-    font-weight: 300; /* Light начертание */
-    color: #5c5d67 !important;
-}
-.header 
-{
-    font-size: 16px;
+    font-size: 16 px;
     font-weight: 300; /* Light начертание */
     color: #5c5d67;
 }
-/* Стиль кнопок */
+.header 
+{
+    font-size: 16 px;
+    font-weight: 300; /* Light начертание */
+    color: #5c5d67;
+}
 .category  {
-    font-size: 16px;
+    font-size: 16 px;
     font-weight: 300; /* Light начертание */
     color: #e5e5e5;
     background-color: #677a77;
     border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
+    padding: 10 px 20 px;
+    border-radius: 20 px;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
 }
