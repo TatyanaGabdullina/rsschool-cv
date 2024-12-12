@@ -2,7 +2,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 300; 
     background-color: #e5e5e5;
-    color: #5c5d67;
+    color: #5c5d67 !important;
 }
 
 .widget-categories,
