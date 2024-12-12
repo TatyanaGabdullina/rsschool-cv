@@ -1,0 +1,38 @@
+.service-widget {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300; 
+    background-color: #e5e5e5;
+    color: #5c5d67;
+}
+
+.widget-categories,
+ {
+    font-size: 16px;
+    font-weight: 300; /* Light начертание */
+    color: #5c5d67;
+}
+.header 
+{
+    font-size: 16px;
+    font-weight: 300; /* Light начертание */
+    color: #5c5d67;
+}
+/* Стиль кнопок */
+.category  {
+    font-size: 16px;
+    font-weight: 300; /* Light начертание */
+    color: #e5e5e5;
+    background-color: #677a77;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Ховер-эффект для кнопок */
+.category:hover,
+ {
+    background-color: #869891;
+    color: #FFFFFF;
+}
