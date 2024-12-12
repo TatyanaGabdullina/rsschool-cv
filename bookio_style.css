@@ -1,6 +1,7 @@
-body {
+.service-widget {
     font-family: 'Roboto', sans-serif;
-    font-weight: 300; 
+    font-weight: 300;
+    font-size: 16 px;
     background-color: #e5e5e5;
     color: #5c5d67;
 }
